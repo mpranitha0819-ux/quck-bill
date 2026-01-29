@@ -1,0 +1,5 @@
+{
+  "name": "QuickBill Mobile Tracker",
+  "description": "A mobile-first billing application for items with fixed rates, featuring daily sales history, sharing capabilities, and AI-powered summaries.",
+  "requestFramePermissions": []
+}
